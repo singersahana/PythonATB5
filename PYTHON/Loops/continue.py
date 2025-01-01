@@ -21,3 +21,12 @@ for num in range(10):
 # 10 |10%2 |true -->exit the loop
 
 # pass can be used in the statement ,functions,class and objects
+
+print("------------------------------------------------------------------")
+for i in range(10):
+    if i == 7:
+        continue
+        # print(i) # nothing will be printed
+    # print(i)  # it will print 0 -9
+print(i) # it will print only 9
+
