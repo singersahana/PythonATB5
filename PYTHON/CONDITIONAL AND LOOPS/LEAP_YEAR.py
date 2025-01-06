@@ -20,6 +20,10 @@ else:
     print("{0} is not a leap year".format(year))
 
 print("----------------------------------------------------------------------------")
+
+# The year is multiple of 400
+# The year is multiple of 4 and not  a multiple of 100
+
 # Optimization
 def is_leap_year(year):
     if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
