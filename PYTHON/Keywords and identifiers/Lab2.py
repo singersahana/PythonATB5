@@ -1,5 +1,4 @@
 #variable
-from xmlrpc.client import boolean
 
 age =22
 # age= 24

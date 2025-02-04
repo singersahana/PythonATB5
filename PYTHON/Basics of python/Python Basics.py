@@ -12,3 +12,4 @@ print("My","NAME","SAHANA",end=';')
 #     print("hello world")
 # we will end up with Indetation errors because python follows PEP 8 standard
 # A style guide that provides guidelines for naming conventions, indentation, and comments
+print("sahana","age",22,"height",149,"weight",47)
